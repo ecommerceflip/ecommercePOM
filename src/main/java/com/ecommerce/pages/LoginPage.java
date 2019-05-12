@@ -22,7 +22,7 @@ public class LoginPage extends DriverObject{
 	}
 	
 	public void loginIntoApp() {
-		usernameTXT.sendKeys("9603255059");
+		usernameTXT.sendKeys("1234567890");
 		passwordTXT.sendKeys("987654321");
 		loginBTN.click();
 	}
